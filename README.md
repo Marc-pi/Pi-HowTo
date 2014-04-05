@@ -9,3 +9,4 @@ Actual topics covered
 * Pi Modules
 * Pi Run settings
 
+You will find these HowTo's into the [wiki](https://github.com/Marc-pi/Pi-HowTo/wiki)
