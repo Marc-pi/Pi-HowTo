@@ -1,6 +1,12 @@
 Please find here some HowTo's about Pi-Engine Framework
 
 
+
+Pi-Components
+-------------
+1. What is made Pi of
+2. Requirements
+
 Install / Upgrade
 -----------------
 1. How to install Pi-Engine
@@ -16,7 +22,7 @@ Themes
 1. How to install a theme
 2. How to make a theme
 
-Module
+Modules
 --------
 1. How to install a module
 2. How to make a module
