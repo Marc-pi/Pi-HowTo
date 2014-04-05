@@ -1,6 +1,6 @@
 Please find here some HowTo's about Pi-Engine Framework
 
-Actual themes covered
+Actual topics covered
 ---------------------
 * Pi-Overview
 * Pi Install / Upgrade
@@ -8,5 +8,4 @@ Actual themes covered
 * Pi Themes
 * Pi Modules
 * Pi Run settings
-
 
